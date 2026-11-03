@@ -2,3 +2,11 @@
 /cktformer
 circuit_candidates.csv
 token.py
+/generated_circuits2
+/venv
+tokenhf.py
+/online test images
+/generated_circuits
+/circuit_resnet_results
+/.vscode
+/__pycache__

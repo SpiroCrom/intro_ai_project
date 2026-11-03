@@ -13,7 +13,7 @@ from PIL import Image, ImageOps, ImageDraw, ImageFont
 import schemdraw
 import schemdraw.elements as elm
 
-OUTPUT_DIR = Path(r'C:\Users\admin\Documents\generated_circuits')
+OUTPUT_DIR = Path(r'.\generated_circuits')
 NUM_IMAGES = 500
 OPAMP_PROBABILITY = 0.35  # Chance of a buffered filter version
 DPI = 180
